@@ -36,12 +36,18 @@ Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alpe
 [17th Jul., 2022] [arXiv, 2022]\
 [[Paper](https://arxiv.org/abs/2207.08208)]
 
+**[UNIT-DDPM] UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models**\
+Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon\
+[12th Apr., 2021] [arXiv, 2021]\
+[[Paper](https://arxiv.org/abs/2104.05358)]
+
+
 
 
 ## Datasets
 
-**[Marmoset Gene Atlas]**\
-[[Download](https://gene-atlas.brainminds.jp/)]> **Digital gene atlas of neonate common marmoset brain**\
+**[Marmoset Gene Atlas]**
+> **Digital gene atlas of neonate common marmoset brain**\
 Shimogori T et al.\
 [[Paper](https://pubmed.ncbi.nlm.nih.gov/29111135/)]\
 > **Cellular-resolution gene expression profiling in the neonatal marmoset brain reveals dynamic species and region-specific differences**\
