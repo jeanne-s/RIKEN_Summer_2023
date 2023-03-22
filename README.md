@@ -6,7 +6,7 @@
 
 
 
-## Review and General Papers
+## Reviews and General Papers
 
 **Diffusion Models for Medical Image Analysis: A Comprehensive Survey**\
 Amirhossein Kazerouni, Ehsan Khodapanah Aghdam, Moein Heidari, Reza Azad, Mohsen Fayyaz, Ilker Hacihaliloglu, Dorit Merhof\
