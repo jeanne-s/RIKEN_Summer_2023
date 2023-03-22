@@ -42,6 +42,6 @@ Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alpe
 
 **[Gold Atlas Male Pelvis] MR and CT Data with Multi Observer Delineations of Organs in the Pelvic Area - Part of the Gold Atlas Project**\
 Nyholm, Tufve, Stina Svensson, Sebastian Andersson, Joakim Jonsson, Maja Sohlin, Christian Gustafsson, Elisabeth Kjellén, et al.\
+[[Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12748)]\
 MRI (T1w and T2w) with flat table top, and CT images of 19 male patients for MRI to CT translation\
-[[Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12748)]
 
