@@ -31,7 +31,17 @@ Xiangxi Meng, Yuning Gu, Yongsheng Pan, Nizhuan Wang, Peng Xue, Mengkang Lu, Xum
 [[Paper](https://arxiv.org/abs/2207.03430)]
 
 
-**Unsupervised Medical Image Translation with Adversarial Diffusion Models**\
+**[SynDiff] Unsupervised Medical Image Translation with Adversarial Diffusion Models**\
 Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alper Güngör, Tolga Çukur\
 [17th Jul., 2022] [arXiv, 2022]\
 [[Paper](https://arxiv.org/abs/2207.08208)]
+
+
+
+## Datasets
+
+**[Gold Atlas Male Pelvis] MR and CT Data with Multi Observer Delineations of Organs in the Pelvic Area - Part of the Gold Atlas Project**\
+Nyholm, Tufve, Stina Svensson, Sebastian Andersson, Joakim Jonsson, Maja Sohlin, Christian Gustafsson, Elisabeth Kjellén, et al.\
+MRI (T1w and T2w) with flat table top, and CT images of 19 male patients for MRI to CT translation\
+[[Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12748)]
+
