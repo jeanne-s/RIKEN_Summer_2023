@@ -40,6 +40,17 @@ Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alpe
 
 ## Datasets
 
+**[Marmoset Gene Atlas]**\
+[[Download](https://gene-atlas.brainminds.jp/)]> **Digital gene atlas of neonate common marmoset brain**\
+Shimogori T et al.\
+[[Paper](https://pubmed.ncbi.nlm.nih.gov/29111135/)]\
+> **Cellular-resolution gene expression profiling in the neonatal marmoset brain reveals dynamic species and region-specific differences**\
+Kita et al.\
+[[Paper](https://www.pnas.org/doi/10.1073/pnas.2020125118)]
+
+[[Download](https://gene-atlas.brainminds.jp/)]
+
+
 **[Gold Atlas Male Pelvis] MR and CT Data with Multi Observer Delineations of Organs in the Pelvic Area - Part of the Gold Atlas Project**\
 Nyholm, Tufve, Stina Svensson, Sebastian Andersson, Joakim Jonsson, Maja Sohlin, Christian Gustafsson, Elisabeth Kjellén, et al.\
 [[Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12748)] [[Download](https://zenodo.org/record/583096#.ZBtiLxyZNH4)]\
