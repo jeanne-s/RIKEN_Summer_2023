@@ -60,15 +60,15 @@ Kita et al.\
 
 **[Ixi Dataset]**\
 [[Download](https://brain-development.org/ixi-dataset/)]
-> 600 MR images from healthy subjects : T1, T2 and PD-weighted images, MRA images, diffusion-weighted images (15 directions). Used in SynDiff paper.
+600 MR images from healthy subjects : T1, T2 and PD-weighted images, MRA images, diffusion-weighted images (15 directions). Used in SynDiff paper.
 
 **[BRATS Dataset] The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)**\
 Menze BH at al.\
 [[Paper](https://pubmed.ncbi.nlm.nih.gov/25494501/)] [[Download](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data)]
-> T1, T2, Fluid Attenuation Inversion Recovery (FLAIR) weighted brain MR images. Used in SynDiff paper.
+T1, T2, Fluid Attenuation Inversion Recovery (FLAIR) weighted brain MR images. Used in SynDiff paper.
 
 **[Gold Atlas Male Pelvis] MR and CT Data with Multi Observer Delineations of Organs in the Pelvic Area - Part of the Gold Atlas Project**\
 Nyholm, Tufve, Stina Svensson, Sebastian Andersson, Joakim Jonsson, Maja Sohlin, Christian Gustafsson, Elisabeth Kjellén, et al.\
 [[Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.12748)] [[Download](https://zenodo.org/record/583096#.ZBtiLxyZNH4)]\
-> MRI (T1w and T2w) with flat table top, and CT images of 19 male patients for MRI to CT translation. Used in SynDiff paper.
+MRI (T1w and T2w) with flat table top, and CT images of 19 male patients for MRI to CT translation. Used in SynDiff paper.
 
