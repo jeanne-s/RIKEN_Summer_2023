@@ -59,12 +59,12 @@ Kita et al.\
 [[Download](https://gene-atlas.brainminds.jp/)]
 
 **[Ixi Dataset]**\
-[[Download](https://brain-development.org/ixi-dataset/)]
+[[Download](https://brain-development.org/ixi-dataset/)]\
 600 MR images from healthy subjects : T1, T2 and PD-weighted images, MRA images, diffusion-weighted images (15 directions). Used in SynDiff paper.
 
 **[BRATS Dataset] The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)**\
 Menze BH at al.\
-[[Paper](https://pubmed.ncbi.nlm.nih.gov/25494501/)] [[Download](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data)]
+[[Paper](https://pubmed.ncbi.nlm.nih.gov/25494501/)] [[Download](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data)]\
 T1, T2, Fluid Attenuation Inversion Recovery (FLAIR) weighted brain MR images. Used in SynDiff paper.
 
 **[Gold Atlas Male Pelvis] MR and CT Data with Multi Observer Delineations of Organs in the Pelvic Area - Part of the Gold Atlas Project**\
