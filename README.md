@@ -37,8 +37,8 @@ Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alpe
 [[Paper](https://arxiv.org/abs/2207.08208)] [[GitHub](https://github.com/icon-lab/SynDiff)]
 > SynDiff is the ﬁrst adversarial diffusion model for medical image synthesis, and the ﬁrst unsupervised diffusion model for medical image translation
 in the literature. It performs unsupervised diffusion-based translation in multi-contrast MRI and multi-modal MRI-CT. It leverages a diffusion model with an adversarial projector for efﬁcient and accurate image sampling over few large diffusion steps. Furthermore, it introduces a novel cycle-consistent architecture combining diffusive and non-diffusive modules to enable unsupervised training.\
-**Competing methods** : Unsupervised MRI contrast translation against state-of-the-art non-attentional GAN (cGAN, UNIT, MUNIT), attentional GAN (AttGAN, SAGAN), and diffusion (DDPM) models. 
-**Performance matrics** : PSNR (dB) and SSIM (%) are listed as mean±std across the test set ; computational complexity through average inference times (msec) per cross-section and memory load (gigabytes) ; ablation studies.
+**Competing methods** : Unsupervised MRI contrast translation against state-of-the-art non-attentional GAN (cGAN, UNIT, MUNIT), attentional GAN (AttGAN, SAGAN), and diffusion (DDPM) models.\
+**Performance metrics** : PSNR (dB) and SSIM (%) are listed as mean±std across the test set ; computational complexity through average inference times (msec) per cross-section and memory load (gigabytes) ; ablation studies.
 
 **[UNIT-DDPM] UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models**\
 Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon\
