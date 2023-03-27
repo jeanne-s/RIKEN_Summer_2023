@@ -34,7 +34,7 @@ Xiangxi Meng, Yuning Gu, Yongsheng Pan, Nizhuan Wang, Peng Xue, Mengkang Lu, Xum
 **[SynDiff] Unsupervised Medical Image Translation with Adversarial Diffusion Models**\
 Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alper Güngör, Tolga Çukur\
 [17th Jul., 2022] [arXiv, 2022]\
-[[Paper](https://arxiv.org/abs/2207.08208)]
+[[Paper](https://arxiv.org/abs/2207.08208)] [[GitHub](https://github.com/icon-lab/SynDiff)]
 
 **[UNIT-DDPM] UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion Probabilistic Models**\
 Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon\
