@@ -48,6 +48,10 @@ Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon\
 **Competing methods** : CycleGAN, UNIT, MUNIT, DRIT++\
 **Performance metric** : Fréchet Inception Distance (FID) between the ground truth and output images.
 
+**ITTR: Unpaired Image-to-Image Translation with Transformers**\
+Zheng, W., Li, Q., Zhang, G., Wan, P., & Wang, Z.\
+[2022] [arXiv, preprint]\
+[[Paper](https://arxiv.org/abs/2203.16015)]
 
 
 
