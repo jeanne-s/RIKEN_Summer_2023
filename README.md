@@ -44,6 +44,9 @@ in the literature. It performs unsupervised diffusion-based translation in multi
 Hiroshi Sasaki, Chris G. Willcocks, Toby P. Breckon\
 [12th Apr., 2021] [arXiv, 2021]\
 [[Paper](https://arxiv.org/abs/2104.05358)]
+> UNIT-DDPM performs unpaired I2I translation but is not specific to medical imaging.\
+**Competing methods** : CycleGAN, UNIT, MUNIT, DRIT++\
+**Performance metric** : Fréchet Inception Distance (FID) between the ground truth and output images.
 
 
 
